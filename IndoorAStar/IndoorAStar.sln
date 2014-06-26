@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IndoorAStar", "IndoorAStar\IndoorAStar.vcproj", "{55CBC675-1671-4253-8897-5E28A966402A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|MSI_56555_PND_SDK (ARMV4I) = Debug|MSI_56555_PND_SDK (ARMV4I)
+		Debug|Win32 = Debug|Win32
+		Release|MSI_56555_PND_SDK (ARMV4I) = Release|MSI_56555_PND_SDK (ARMV4I)
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CBC675-1671-4253-8897-5E28A966402A}.Debug|MSI_56555_PND_SDK (ARMV4I).ActiveCfg = Debug|MSI_56555_PND_SDK (ARMV4I)
+		{55CBC675-1671-4253-8897-5E28A966402A}.Debug|MSI_56555_PND_SDK (ARMV4I).Build.0 = Debug|MSI_56555_PND_SDK (ARMV4I)
+		{55CBC675-1671-4253-8897-5E28A966402A}.Debug|MSI_56555_PND_SDK (ARMV4I).Deploy.0 = Debug|MSI_56555_PND_SDK (ARMV4I)
+		{55CBC675-1671-4253-8897-5E28A966402A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55CBC675-1671-4253-8897-5E28A966402A}.Debug|Win32.Build.0 = Debug|Win32
+		{55CBC675-1671-4253-8897-5E28A966402A}.Release|MSI_56555_PND_SDK (ARMV4I).ActiveCfg = Release|MSI_56555_PND_SDK (ARMV4I)
+		{55CBC675-1671-4253-8897-5E28A966402A}.Release|MSI_56555_PND_SDK (ARMV4I).Build.0 = Release|MSI_56555_PND_SDK (ARMV4I)
+		{55CBC675-1671-4253-8897-5E28A966402A}.Release|MSI_56555_PND_SDK (ARMV4I).Deploy.0 = Release|MSI_56555_PND_SDK (ARMV4I)
+		{55CBC675-1671-4253-8897-5E28A966402A}.Release|Win32.ActiveCfg = Release|Win32
+		{55CBC675-1671-4253-8897-5E28A966402A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

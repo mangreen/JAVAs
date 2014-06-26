@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="C:/j2sdk1.4.2_16/lib/jxl-2.6.6.jar" kind="lib"/>
+	<classpathentry path="" kind="output"/>
+</classpath>

@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Jan 26 11:35:17 CST 2008
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=OTCConverter_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Converter
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

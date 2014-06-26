@@ -1,0 +1,61 @@
+		//建立文字檔讀取物件
+		File originalFile1 = new File(dataDir+"tra(9101-9103).txt");
+		searchStock(originalFile1);
+		//建立文字檔讀取物件
+		File originalFile2 = new File(dataDir+"tra(9104-9106).txt");
+		searchStock(originalFile2);
+		//建立文字檔讀取物件
+		File originalFile3 = new File(dataDir+"tra(9107-9109).txt");
+		searchStock(originalFile3);
+		//建立文字檔讀取物件
+		File originalFile4 = new File(dataDir+"tra(9110-9112).txt");
+		searchStock(originalFile4);
+		//建立文字檔讀取物件
+		File originalFile5 = new File(dataDir+"tra(9201-9203).txt");
+		searchStock(originalFile5);
+		//建立文字檔讀取物件
+		File originalFile6 = new File(dataDir+"tra(9204-9206).txt");
+		searchStock(originalFile6);
+		//建立文字檔讀取物件
+		File originalFile7 = new File(dataDir+"tra(9207-9209).txt");
+		searchStock(originalFile7);
+		//建立文字檔讀取物件
+		File originalFile8 = new File(dataDir+"tra(9210-9212).txt");
+		searchStock(originalFile8);
+		//建立文字檔讀取物件
+		File originalFile9 = new File(dataDir+"tra(9301-9303).txt");
+		searchStock(originalFile9);
+		//建立文字檔讀取物件
+		File originalFile10 = new File(dataDir+"tra(9304-9306).txt");
+		searchStock(originalFile10);
+		//建立文字檔讀取物件
+		File originalFile11 = new File(dataDir+"tra(9307-9309).txt");
+		searchStock(originalFile11);
+		//建立文字檔讀取物件
+		File originalFile12 = new File(dataDir+"tra(9310-9312).txt");
+		searchStock(originalFile12);
+		//建立文字檔讀取物件
+		File originalFile13 = new File(dataDir+"tra(9401-9403).txt");
+		searchStock(originalFile13);
+		//建立文字檔讀取物件
+		File originalFile14 = new File(dataDir+"tra(9404-9406).txt");
+		searchStock(originalFile14);
+		//建立文字檔讀取物件
+		File originalFile15 = new File(dataDir+"tra(9407-9409).txt");
+		searchStock(originalFile15);
+		//建立文字檔讀取物件
+		File originalFile16 = new File(dataDir+"tra(9410-9412).txt");
+		searchStock(originalFile16);
+		//建立文字檔讀取物件
+		File originalFile17 = new File(dataDir+"tra(9501-9503).txt");
+		searchStock(originalFile17);
+		//建立文字檔讀取物件
+		File originalFile18 = new File(dataDir+"tra(9504-9506).txt");
+		searchStock(originalFile18);
+		//建立文字檔讀取物件
+		File originalFile19 = new File(dataDir+"tra(9507-9509).txt");
+		searchStock(originalFile19);
+		//建立文字檔讀取物件
+		File originalFile20 = new File(dataDir+"tra(9510-9512).txt");
+		searchStock(originalFile20);
+		
